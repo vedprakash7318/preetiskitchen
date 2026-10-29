@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgBox" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F8F5ED"/>
+      <stop offset="100%" stop-color="#EFE9DC"/>
+    </linearGradient>
+    <linearGradient id="terracotta" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D99A64"/>
+      <stop offset="100%" stop-color="#C2824C"/>
+    </linearGradient>
+    <linearGradient id="herbGreen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#526B4D"/>
+      <stop offset="100%" stop-color="#3D5339"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#bgBox)"/>
+  
+  <!-- Outer Box Container -->
+  <rect x="80" y="60" width="440" height="330" rx="16" fill="#FFFFFF" stroke="#D99A64" stroke-width="4" filter="drop-shadow(0 12px 24px rgba(41,42,37,0.1))"/>
+  
+  <!-- Box Compartments -->
+  <!-- Compartment 1: Shahi Paneer -->
+  <rect x="105" y="85" width="185" height="130" rx="10" fill="#FCF8F2" stroke="#E6DCCE" stroke-width="2"/>
+  <rect x="115" y="95" width="165" height="110" rx="8" fill="#F7DCBE"/>
+  <circle cx="197" cy="150" r="38" fill="#E89B55"/>
+  <rect x="180" y="135" width="16" height="16" rx="2" fill="#FFFFFF" transform="rotate(15 188 143)"/>
+  <rect x="198" y="145" width="18" height="18" rx="2" fill="#FFFFFF" transform="rotate(35 207 154)"/>
+  <rect x="185" y="152" width="15" height="15" rx="2" fill="#FFFFFF" transform="rotate(-10 192 159)"/>
+  <circle cx="197" cy="130" r="4" fill="#526B4D"/>
+  <text x="197" y="200" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="600" fill="#292A25" text-anchor="middle">Shahi Paneer Gravy</text>
+
+  <!-- Compartment 2: Jeera Basmati Rice -->
+  <rect x="310" y="85" width="185" height="130" rx="10" fill="#FCF8F2" stroke="#E6DCCE" stroke-width="2"/>
+  <rect x="320" y="95" width="165" height="110" rx="8" fill="#FFFDF8"/>
+  <ellipse cx="402" cy="148" rx="50" ry="32" fill="#F4EFE6"/>
+  <line x1="375" y1="140" x2="385" y2="142" stroke="#8C6E4A" stroke-width="2"/>
+  <line x1="410" y1="135" x2="422" y2="137" stroke="#8C6E4A" stroke-width="2"/>
+  <line x1="395" y1="155" x2="408" y2="157" stroke="#8C6E4A" stroke-width="2"/>
+  <circle cx="402" cy="145" r="4" fill="#526B4D"/>
+  <text x="402" y="200" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="600" fill="#292A25" text-anchor="middle">Fragrant Jeera Rice</text>
+
+  <!-- Compartment 3: Dal Tadka -->
+  <rect x="105" y="235" width="115" height="130" rx="10" fill="#FCF8F2" stroke="#E6DCCE" stroke-width="2"/>
+  <circle cx="162" cy="290" r="36" fill="#FCE98A"/>
+  <circle cx="162" cy="290" r="28" fill="#F4D03F"/>
+  <circle cx="162" cy="290" r="6" fill="#C0392B"/>
+  <text x="162" y="352" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="600" fill="#292A25" text-anchor="middle">Dal Tadka</text>
+
+  <!-- Compartment 4: Soft Phulkas / Parathas -->
+  <rect x="235" y="235" width="145" height="130" rx="10" fill="#FCF8F2" stroke="#E6DCCE" stroke-width="2"/>
+  <circle cx="307" cy="290" r="38" fill="#ECD5B3"/>
+  <circle cx="307" cy="290" r="34" fill="#DEB887" stroke="#B08D57" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <text x="307" y="352" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="600" fill="#292A25" text-anchor="middle">3 Soft Phulkas</text>
+
+  <!-- Compartment 5: Gulab Jamun & Salad -->
+  <rect x="395" y="235" width="100" height="130" rx="10" fill="#FCF8F2" stroke="#E6DCCE" stroke-width="2"/>
+  <circle cx="445" cy="275" r="18" fill="#5A2A18"/>
+  <circle cx="445" cy="272" r="4" fill="#8CE196"/>
+  <rect x="420" y="305" width="50" height="20" rx="4" fill="#D5E8D4"/>
+  <text x="445" y="352" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="600" fill="#292A25" text-anchor="middle">Sweet & Salad</text>
+
+  <!-- Badge Banner -->
+  <rect x="180" y="20" width="240" height="32" rx="16" fill="#526B4D"/>
+  <text x="300" y="41" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">PREMIUM BULK MEAL BOX</text>
+</svg>

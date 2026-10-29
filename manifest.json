@@ -1,0 +1,16 @@
+{
+  "name": "Preeti's Kitchen - Pure Veg Catering Lucknow",
+  "short_name": "Preeti's Kitchen",
+  "description": "Pure vegetarian catering, daily tiffins, and bulk food orders in Lucknow, Uttar Pradesh.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#F8F5ED",
+  "theme_color": "#526B4D",
+  "icons": [
+    {
+      "src": "images/favicon.svg",
+      "sizes": "64x64 128x128 256x256",
+      "type": "image/svg+xml"
+    }
+  ]
+}

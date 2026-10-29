@@ -1,0 +1,5 @@
+# robots.txt for Preeti's Kitchen
+User-agent: *
+Allow: /
+
+Sitemap: https://preetiskitchenlucknow.com/sitemap.xml
